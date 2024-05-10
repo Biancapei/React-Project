@@ -109,11 +109,15 @@
     height: 40px;
     border: 1px solid rgb(59, 58, 58);
     z-index: -99;
-
 }
+
+.findIcon {
+    margin-top: 2px;
+}
+
 .search-doctor-input-results {
     position: absolute;
-    top: 55%;
+    top: 150%;
     left: 0;
     width: 100%;
     z-index: 5;

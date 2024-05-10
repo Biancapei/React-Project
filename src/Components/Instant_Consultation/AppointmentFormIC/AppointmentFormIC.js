@@ -14,6 +14,7 @@ const AppointmentFormIC = ({ doctorName, doctorSpeciality, onSubmit }) => {
       onSubmit({ name, phoneNumber });
       setName('');
       setPhoneNumber('');
+      selectedSlot(null)
     };
   
     return (

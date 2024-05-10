@@ -1,0 +1,9 @@
+.popup-review {
+    padding: 25px !important;
+    max-width: 450px !important;
+}
+
+.review-form{
+    margin: 25px;
+    border-radius: 10px;
+}
